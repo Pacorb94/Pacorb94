@@ -1,4 +1,4 @@
-<div style="margin: auto;">
+<div style="margin: 0px auto;">
     <h1 style="text-align: center;">Hola 👋, soy Paco Ramírez</h1>
     <h3 style="text-align: center;">Junior Fullstack Developer</h3>
     <p style="text-align: center;">
