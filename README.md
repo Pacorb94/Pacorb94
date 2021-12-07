@@ -1,6 +1,5 @@
 <div align="center">
     <h1>Hola 👋, soy Paco Ramírez</h1>
-    <h3>Junior Fullstack Developer</h3>
     <p>
         Aunque verás que he aprendido muchas tecnologías, mi punto fuerte es Angular 12 y PHP (APIs)
     </p>
