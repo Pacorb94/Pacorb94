@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hola 👋, soy Paco Ramírez</h1>
     <p>
-        Aunque verás que he usado muchas tecnologías, mi punto fuerte es Angular y PHP (APIs)
+        Aunque verás que he usado muchas tecnologías, mi punto fuerte es Angular y PHP
     </p>
     <div>
         <h3>Tecnologías:</h3>
