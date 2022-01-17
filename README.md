@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hola 👋, soy Paco Ramírez</h1>
     <p>
-        Aunque verás que he usado muchas tecnologías, me centro en Angular y PHP
+        Aunque verás que he usado muchas tecnologías, me centro en Angular, PHP y MySQL
     </p>
     <div>
         <h3>Tecnologías:</h3>
